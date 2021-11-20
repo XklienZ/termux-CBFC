@@ -7,9 +7,10 @@ Not only that, this script also provides to change the font of termux.
 # HOW TO INSTALL AND RUN
   ```
      cd /data/data/com.termux/files/home
-     curl -LO https://raw.githubusercontent.com/Xklienz/termux-CBFC/main/termux-cbfc.sh
-     chmod +x /data/data/com.termux/files/home/termux-cbfc.sh
-     ./termux-cbfc.sh
+     git clone https://github.com/XklienZ/termux-CBFC
+     cd termux-CBFC
+     chmod +x /data/data/com.termux/files/home/termux-CBFC/termux-cbfc.sh
+     /data/data/com.termux/files/home/termux-CBFC/termux-cbfc.sh
   ```
 
 # WARNING
